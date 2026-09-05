@@ -66,7 +66,7 @@ Esta API REST oferece um serviço para processamento automatizado de **arquivos 
 1. Clone o repositório:
 
 ```bash
-git https://github.com/bispobr/Spring-java-movimentacaofinanceira.git
+git clone https://github.com/bispobr/Spring-java-movimentacaofinanceira.git
 ```
 
 2. Altere o arquivo de configuração **application.properties** com as credenciais de login do PostgreSQL do seu ambiente.
